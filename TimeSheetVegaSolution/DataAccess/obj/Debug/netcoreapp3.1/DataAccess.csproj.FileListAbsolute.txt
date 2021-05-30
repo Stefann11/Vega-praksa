@@ -1,0 +1,14 @@
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\bin\Debug\netcoreapp3.1\Model.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\bin\Debug\netcoreapp3.1\Model.pdb
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

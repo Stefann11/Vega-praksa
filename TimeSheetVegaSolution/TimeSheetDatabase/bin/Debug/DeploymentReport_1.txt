@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[DailyTimeSheet] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_DailyTimeSheet_Category] (Foreign Key)
+       [dbo].[FK_DailyTimeSheet_Employee] (Foreign Key)
+       [dbo].[FK_DailyTimeSheet_Project] (Foreign Key)
+     Create
+       [dbo].[FK_DailyTimeSheet_Category] (Foreign Key)
+       [dbo].[FK_DailyTimeSheet_Employee] (Foreign Key)
+       [dbo].[FK_DailyTimeSheet_Project] (Foreign Key)

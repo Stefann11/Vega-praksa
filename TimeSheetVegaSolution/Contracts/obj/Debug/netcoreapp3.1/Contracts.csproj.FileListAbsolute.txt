@@ -1,0 +1,12 @@
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\bin\Debug\netcoreapp3.1\Model.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\bin\Debug\netcoreapp3.1\Model.pdb
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

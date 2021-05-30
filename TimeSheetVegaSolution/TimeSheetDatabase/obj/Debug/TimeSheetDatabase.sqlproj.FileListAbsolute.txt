@@ -1,0 +1,9 @@
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\bin\Debug\TimeSheetDatabase.dacpac
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\bin\Debug\TimeSheetDBProject.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\bin\Debug\TimeSheetDBProject.pdb
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\obj\Debug\Model.xml
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\obj\Debug\refactor.xml
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\obj\Debug\postdeploy.sql
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\obj\Debug\predeploy.sql
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\obj\Debug\TimeSheetDBProject.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\obj\Debug\TimeSheetDBProject.pdb

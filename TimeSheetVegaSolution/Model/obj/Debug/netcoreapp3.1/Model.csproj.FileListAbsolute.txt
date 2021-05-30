@@ -1,0 +1,9 @@
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.pdb

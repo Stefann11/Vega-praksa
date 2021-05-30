@@ -1,0 +1,33 @@
+.modal {
+  display: none;
+  top: 0;
+  min-width: 250px;
+  width: 30%;
+  height: 400px;
+  margin: 3 auto;
+  position: fixed;
+  z-index: 40001;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #000;
+  margin-top: 40px;
+  margin-left: 35%;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+
+  animation-name: fadeIn_Modal;
+  animation-duration: 0.8s;
+}
+
+#datepickerInput {
+  border: solid grey 1px;
+  width: 400px !important;
+  font-size: 24px;
+  color: grey;
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
