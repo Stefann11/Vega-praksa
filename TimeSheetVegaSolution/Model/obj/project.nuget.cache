@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qnLZQlHs8Agkt3+M3K/Ecca/8TJLr1fl6qfc7fPyUWM7OeU7OsReAZsYL7nXf9H8594G5fVEcgYRwEvcdFZFDQ==",
+  "dgSpecHash": "y5lbKm7fM874UJ7GQPo+wCs1Z2zf4H1VK0Zf4YhM14C5/H7WYc+f2ITsuPU2ntjnXjMqz0byTtoaw8T8rjxLPg==",
   "success": true,
-  "projectFilePath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj",
+  "projectFilePath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\mailkit\\2.6.0\\mailkit.2.6.0.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

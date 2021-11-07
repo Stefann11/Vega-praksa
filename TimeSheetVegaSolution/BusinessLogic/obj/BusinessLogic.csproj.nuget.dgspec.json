@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj": {}
+    "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\BusinessLogic\\obj\\",
+        "outputPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj"
+              "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj": {
-                "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj"
+              "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj": {
+                "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj": {
+    "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Contracts\\obj\\",
+        "outputPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -123,8 +123,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj": {
-                "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj"
+              "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj": {
+                "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj": {
+    "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\DataAccess\\obj\\",
+        "outputPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -181,11 +181,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj"
+              "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj"
               },
-              "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj": {
-                "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj"
+              "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj": {
+                "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj"
               }
             }
           }
@@ -232,14 +232,14 @@
         }
       }
     },
-    "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj": {
+    "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj",
+        "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\obj\\",
+        "outputPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",

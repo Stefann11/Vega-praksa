@@ -16,3 +16,21 @@ C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\BusinessLogic\ob
 C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
 C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\DPDFPrintNative_x64.dll
 C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\DPDFPrintNative_x86.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\DPDFPrintNative_x64.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\DPDFPrintNative_x86.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\Model.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete

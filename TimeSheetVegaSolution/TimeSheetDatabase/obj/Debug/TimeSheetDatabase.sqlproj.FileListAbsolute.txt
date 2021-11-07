@@ -7,3 +7,13 @@ C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\o
 C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\obj\Debug\predeploy.sql
 C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\obj\Debug\TimeSheetDBProject.dll
 C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetDBProject\TimeSheetDatabase\obj\Debug\TimeSheetDBProject.pdb
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\TimeSheetDatabase\bin\Debug\TimeSheetDatabase.dacpac
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\TimeSheetDatabase\bin\Debug\TimeSheetDBProject.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\TimeSheetDatabase\bin\Debug\TimeSheetDBProject.pdb
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\TimeSheetDatabase\obj\Debug\TimeSheetDatabase.sqlprojAssemblyReference.cache
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\TimeSheetDatabase\obj\Debug\Model.xml
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\TimeSheetDatabase\obj\Debug\refactor.xml
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\TimeSheetDatabase\obj\Debug\postdeploy.sql
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\TimeSheetDatabase\obj\Debug\predeploy.sql
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\TimeSheetDatabase\obj\Debug\TimeSheetDBProject.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\TimeSheetDatabase\obj\Debug\TimeSheetDBProject.pdb

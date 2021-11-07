@@ -7,3 +7,11 @@ C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\obj\Debug\
 C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
 C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.dll
 C:\PraksaProjekat\timesheet-stefansantrac\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Git Vega Praksa\Vega-praksa\TimeSheetVegaSolution\Model\obj\Debug\netcoreapp3.1\Model.pdb

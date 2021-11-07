@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ppZAtGwtQEoGMtsLeoRI3uqsXzKitogF251PtlPe+uQ/GJjK1bbp5fosTwCdH12xpiWFk5wNh5DKEzEvjBjyw==",
+  "dgSpecHash": "SFboaMH+FgXDSjM6N9Kd7tG3ai/kaalZf2WI4H8A8sYFAHK+pvjgI2OBF8++qJEGeRBEoZCnD4vYcjWrlWscDw==",
   "success": true,
-  "projectFilePath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\TimeSheet\\TimeSheet.csproj",
+  "projectFilePath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\TimeSheet\\TimeSheet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\arraytoexcel\\1.0.1\\arraytoexcel.1.0.1.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\arraytopdf\\1.0.1\\arraytopdf.1.0.1.nupkg.sha512",

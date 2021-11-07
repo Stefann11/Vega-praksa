@@ -8333,11 +8333,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\TimeSheet\\TimeSheet.csproj",
+      "projectUniqueName": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\TimeSheet\\TimeSheet.csproj",
       "projectName": "TimeSheet",
-      "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\TimeSheet\\TimeSheet.csproj",
+      "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\TimeSheet\\TimeSheet.csproj",
       "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-      "outputPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\TimeSheet\\obj\\",
+      "outputPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\TimeSheet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8354,14 +8354,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj"
+            "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Contracts\\Contracts.csproj"
             },
-            "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj"
+            "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\DataAccess\\DataAccess.csproj"
             }
           }
         }

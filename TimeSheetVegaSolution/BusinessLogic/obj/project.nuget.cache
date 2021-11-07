@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0c60Rhe5P6GY3Lru7WW0afBnY24fhV3mEQ0ufMfHfrMLXKR/OhEXK0aj2hnn4F0tJbc6xJFSpsjv1lcSsKJJzg==",
+  "dgSpecHash": "4pV5ppKw211cVjhwwoQUlt9l5nnFTQXQk6ratvdaD2M4BAonguN+g4R0FQ8hGFUaxpsT2ynFbJNb5AnARoos3w==",
   "success": true,
-  "projectFilePath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj",
+  "projectFilePath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\BusinessLogic\\BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\arraytoexcel\\1.0.1\\arraytoexcel.1.0.1.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\arraytopdf\\1.0.1\\arraytopdf.1.0.1.nupkg.sha512",

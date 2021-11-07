@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj": {}
+    "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj": {
+    "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\Model.csproj",
+        "projectPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\PraksaProjekat\\timesheet-stefansantrac\\TimeSheetVegaSolution\\Model\\obj\\",
+        "outputPath": "C:\\Git Vega Praksa\\Vega-praksa\\TimeSheetVegaSolution\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
